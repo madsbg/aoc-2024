@@ -1,6 +1,6 @@
 # :christmas_tree::candle: Advent of Code 2024 :candle::christmas_tree:
 
-:snowman::snowflake: My solutions to [Advent of Code 2024](https://adventofcode.com/2024)
+:snowman::snowflake: Welcome to my solutions for [Advent of Code 2024](https://adventofcode.com/2024)
 
 Feel free to get inspired 😄
 
