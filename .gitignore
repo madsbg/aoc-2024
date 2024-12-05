@@ -1,0 +1,6 @@
+.idea
+.env
+*.log
+log
+csv
+puzzle-input.txt
